@@ -1,0 +1,48 @@
+[
+    {
+        "OrdenNumero": 0,
+        "fecha": "12-12-12",
+        "direccion":"direccion lugar X",
+        "estado": 0,
+        "total": 249.95,
+        "productos": [
+            {
+                "nombreProducto": "Producto 22",
+                "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore, modi!",
+                "precio": 49.99,
+                "Codigo": 1,
+                "cantidad": 2
+            },
+            {
+                "nombreProducto": "Producto 1",
+                "precio": 49.99,
+                "Codigo": 0,
+                "cantidad": 3
+            }
+        ]
+    },
+    {
+        "OrdenNumero": 1,
+        "fecha": "12-12-12",
+        "direcion":"direccion",
+        "estado": 1,
+        "total": 0,
+        "productos": []
+    },
+    {
+        "OrdenNumero": 2,
+        "fecha": "12-12-12",
+        "direcion":"direccion",
+        "estado": 1,
+        "total": 0,
+        "productos": []
+    },
+    {
+        "OrdenNumero": 3,
+        "fecha": "12-12-12",
+        "direcion":"direccion",
+        "estado": 0,
+        "total": 0,
+        "productos": []
+    }
+]

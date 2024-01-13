@@ -1,0 +1,101 @@
+[
+    {
+        "firstName": "Yonny",
+        "lastName": "Rodas",
+        "password": "123",
+        "birthdate": "23243-12-12",
+        "email": "Yonny",
+        "NumeroTelefono": "4234234",
+        "tipoUsuario": "1",
+        "ordenes": [
+            {
+                "nombreProducto": "Producto 2",
+                "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore, modi!",
+                "precio": 49.99,
+                "Codigo": 1,
+                "cantidad": 2
+            },
+            {
+                "nombreProducto": "Producto 1",
+                "precio": 49.99,
+                "Codigo": 0,
+                "cantidad": 2
+            },
+            {
+                "nombreProducto": "Producto 1",
+                "precio": 49.99,
+                "Codigo": 0,
+                "cantidad": 5
+            }
+        ]
+    },
+    {
+        "firstName": "Grecia",
+        "lastName": "Maria",
+        "password": "123",
+        "birthdate": "0334-02-13",
+        "email": "Grecia",
+        "NumeroTelefono": "352335",
+        "tipoUsuario": "2",
+        "historial": [
+            {
+                "orden": "455",
+                "fecha": "12-12-12",
+                "comision": 30,
+                "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore, modi!"
+            },
+            {
+                "orden": "456",
+                "fecha": "12-12-12",
+                "comision": 25,
+                "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore, modi!"
+            }
+        ]
+    },
+    {
+        "firstName": "Admin",
+        "lastName": "Admin",
+        "password": "admin",
+        "birthdate": "0231-12-12",
+        "email": "Admin",
+        "NumeroTelefono": "34234234",
+        "tipoUsuario": "0"
+    },
+    {
+        "firstName": "Raul",
+        "lastName": "Moncada",
+        "password": "123",
+        "birthdate": "0423-03-04",
+        "email": "Raul",
+        "NumeroTelefono": "4324",
+        "tipoUsuario": "1",
+        "ordenes": [
+            {
+                "nombreProducto": "Producto 1",
+                "precio": 49.99,
+                "Codigo": 0,
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "firstName": "Juan",
+        "lastName": "Pedro",
+        "password": "123",
+        "birthdate": "0012-12-12",
+        "email": "Pedro",
+        "NumeroTelefono": "1233434",
+        "tipoUsuario": "1",
+        "ordenes": []
+    },
+    {
+        "firstName": "Moises",
+        "lastName": "Ramirez",
+        "password": "123",
+        "birthdate": "2012-12-12",
+        "email": "Moises",
+        "NumeroTelefono": "243234234",
+        "tipoUsuario": "2",
+        "historial": []
+    }
+]

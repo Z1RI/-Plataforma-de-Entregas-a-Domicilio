@@ -1,0 +1,49 @@
+.Sections{
+    margin: 5px;
+    background-color: white;
+    width: 670px;
+    height: 640px;
+
+}
+
+#LadingButtom{
+    position: absolute;
+    margin: 3%;
+}
+
+#AgregarbuttonPrincipal{
+    position: absolute;
+    margin: 3%;
+}
+
+.flexContainer{
+    margin-top: 8%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: stretch
+}
+
+.modal-body {
+    background-color: rgb(68, 196, 189);
+    height: 810px;
+}
+
+#ListaProductosSection{
+    background-color: white;
+    height: 400px;
+    width: 620px;
+    margin-left: 60px;
+    position: static;
+}
+
+#map{
+    width: 250px;
+    height: 180px;
+    background-color: white;
+    margin-left: 360px;
+    position: absolute;
+    margin-top: -170px;
+}
